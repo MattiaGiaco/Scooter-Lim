@@ -1,0 +1,78 @@
+body{
+  background-image: url("background.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.logo{
+  width: 300px;
+  margin-top: 80px;
+}
+
+.conteiner{
+  width: 1000px;
+  margin: 0 auto;
+}
+
+h1{
+  color: rgba(30, 250, 27, 1);
+  margin-bottom: 1px;
+}
+
+nav{
+  margin: auto;
+  background: rgba(30, 250, 27, 1);
+  width: 1000px;
+  height: 40px;
+}
+.buttons{
+  padding: 1%;
+  }
+.quadrato{
+  width: 1200px;
+  height: 1200px;
+  border-radius: 30px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5);
+  margin-top: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 100px;
+}
+main{
+width: 30%
+}
+.stato1{
+  background-color: orange;
+  width: 400px;
+  height: 30px;
+  border-radius: 5px;
+  margin-top: auto;
+  margin-bottom: 5%;
+}
+main{
+  text-align: left;
+  margin-top: 3%;
+  margin-left: 8%;
+}
+strong{
+  font-size: 150%
+}
+.colore{
+  color: rgba(255, 255, 255, 1); n
+}
+.stato2{
+  background-color: limegreen;
+  width: 650px;
+  height: 30px;
+  border-radius: 5px;
+  margin-top: auto;
+  margin-bottom: 5%;
+}
+.stato3{
+  background-color: crimson;
+  width: 150px;
+  height: 30px;
+  border-radius: 5px;
+  margin-top: auto;
+}
